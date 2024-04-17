@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
 .cabecalho{
     background-color: #424e61;
     color: white;
@@ -12,11 +11,9 @@
     padding: 24px 0;
 
 }
-
 .cabecalho-imagem{
     width: 15%;
 }
-
 
 class="cabecalho-lista-item"{
     display: inline-block;
